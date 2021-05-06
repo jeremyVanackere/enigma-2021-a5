@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello LobbyController!{% endblock %}
+
+{% block body %}
+    <style>
+        .div-valider-score-match {
+            width: 35%;
+            font-size: 30px;
+            cursor: pointer;
+        }
+    </style>
+    <div class="container">
+        <h1>Saisie des scores</h1>
+        {{ form(form) }}
+    </div>
+{% endblock %}

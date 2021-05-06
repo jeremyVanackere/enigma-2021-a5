@@ -1,0 +1,12 @@
+- rajouter au lobby les champs : nom, date et multiplicateur de points
+- creer un second lobbyService
+- ajouter tout les lobby dans le lobby controller
+- ajouter un id aux lobby different
+- ajouter un id de lobby à queingPlayer  
+- supprimer et creer la bdd
+- creer 2 joueurs
+- creer 2 lobby (direct en bdd)
+- changer les méthodes pur cree les encounters avec les différent queingPlayer selon le lobby  
+- changer les méthodes de calcul du ratio
+- changer les méthodes pour rejoindre un lobby seulement avant la date
+- changer les méthodes pour saisir le score seulement apres la date
